@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @tenick
-- 👀 I’m interested in programming in general
-- 🌱 I’m currently learning web stuff using HTML, CSS, Javascript, PHP, and MySQL
-- 📫 You can reach me through usareskenneth22@gmail.com
+- 👋 Hi, I’m @tenick, 
+- 👀 I’m interested in all things computer science
+- 🌐 Check out my blog at https://tenick.github.io/
 
 <!---
 tenick/tenick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
